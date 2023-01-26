@@ -1,0 +1,14 @@
+{
+  "name": "json-server-database",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:luizclr/json-server-database.git",
+  "author": "Luiz Claudio <luiz.lclr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "json-server --watch db.json --middlewares auth-middleware.js --port 4000"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
