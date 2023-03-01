@@ -1,12 +1,18 @@
 {
   "auth": {
-    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5YzQwODJjYi03YjUxLTQyMDItODQ2NS0xNDVmZTFjZmEzZmMiLCJleHAiOjM2MDB9.He2nEHNNjmMeijZqdM-T3XWzubOTeD4wGsFd0YDOzII"
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5YzQwODJjYi03YjUxLTQyMDItODQ2NS0xNDVmZTFjZmEzZmMiLCJleHAiOjM2MDB9.He2nEHNNjmMeijZqdM-T3XWzubOTeD4wGsFd0YDOzII",
+    "user": {
+      "id": "9c4082cb-7b51-4202-8465-145fe1cfa3fc",
+      "firstName": "Will",
+      "lastName": "Smith",
+      "email": "will@example.com.br"
+    }
   },
   "users": [
     {
       "id": "9c4082cb-7b51-4202-8465-145fe1cfa3fc",
-      "first_name": "Will",
-      "last_name": "Smith",
+      "firstName": "Will",
+      "lastName": "Smith",
       "email": "will@example.com.br"
     }
   ]
